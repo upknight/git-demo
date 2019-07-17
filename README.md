@@ -3,12 +3,18 @@ This aim of this demo is to learn how to use git and github as well as build a c
 
 ## github and git
 git init
+
 git add
+
 git commit
+
 git push
+
 git pull
 
 ## A C source codes package
 main.c
+
 utility_dyn_memory.c
+
 utility_dyn_memory.h
