@@ -37,6 +37,12 @@ git branch
     git branch -m oldBranchName newBranchName 
         rename a existing branch 
 
+git remote
+
+    git remote -v
+        rename a existing branch 
+
+
 git checkout 
 
     git checkout FileName
