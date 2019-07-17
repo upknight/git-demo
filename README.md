@@ -18,7 +18,7 @@ git branch
 
 git merge
 
-## A C source codes package
+## A portable C-code files for solving wave equations
 main.c
 
 utility_dynamic_memory.c
