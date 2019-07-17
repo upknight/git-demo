@@ -16,6 +16,10 @@ git pull
 
 git branch
 
+    git branch 
+        print the existing local branches, a "*" symbol before the branch denotes the current branch
+
+
 git merge
 
 ## A portable C-code files for solving wave equations
