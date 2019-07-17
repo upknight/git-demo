@@ -4,6 +4,8 @@ This aim of this demo is to learn how to use git and github as well as build a c
 ## github and git
 git init
 
+git clone
+
 git add
 
 git commit
@@ -11,6 +13,10 @@ git commit
 git push
 
 git pull
+
+git branch
+
+git merge
 
 ## A C source codes package
 main.c
