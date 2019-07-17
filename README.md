@@ -15,6 +15,6 @@ git pull
 ## A C source codes package
 main.c
 
-utility_dyn_memory.c
+utility_dynamic_memory.c
 
-utility_dyn_memory.h
+utility_dynamic_memory.h
